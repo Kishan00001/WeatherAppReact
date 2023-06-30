@@ -1,6 +1,6 @@
 import React from 'react';
-import Temp from './Component/weather/temp';
+import Todo from './Component/todo/todo';
 const App = () => {
-    return <Temp/>;
+    return <Todo/>;
 };
 export default App;
