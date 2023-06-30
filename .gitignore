@@ -22,7 +22,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-src/Component/Basics
-src/Component/Hooks
-src/Component/todo
-public/images
+/src/Component/Basics
+/src/Component/Hooks
+/src/Component/todo
+/public/images
